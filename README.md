@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+
+<img width="72" height="28" alt="image" src="https://github.com/user-attachments/assets/0089c7f0-4a6e-44ba-8bab-3e11ebfbeee3" />
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
