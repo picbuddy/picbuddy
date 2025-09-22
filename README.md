@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 <img width="87" height="28" alt="image" src="https://github.com/user-attachments/assets/4d9c5137-49db-4b72-a043-013f5a886987" />
 <br>
 <img width="164" height="28" alt="image" src="https://github.com/user-attachments/assets/a8cc7252-ad42-4b03-be31-82c5d3d3afd2" />
+<img width="138" height="28" alt="image" src="https://github.com/user-attachments/assets/b1383bcb-56ab-4d45-bfc0-6a288f7a94d4" />
+<img width="171" height="28" alt="image" src="https://github.com/user-attachments/assets/491473e6-99ee-4c55-b842-0d4bddc562d5" />
+<img width="130" height="28" alt="image" src="https://github.com/user-attachments/assets/e515cf7f-38f9-4af1-b716-28d744bef549" />
+
+
 
 
 
